@@ -40,6 +40,10 @@ pdflatex pages/<page-name>.tex
 
 This is useful if you need to generate a specific page without compiling the entire document.
 
+## Example Output
+
+You can check out an already compiled version of the CV with placeholder values under the [`/example/main.pdf`](example/main.pdf) file.
+
 ## ⚠️ Limitations
 
 - The hyperlinks in the resulting PDF file from compiling the `main.tex` do not work.

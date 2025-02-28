@@ -1,0 +1,46 @@
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.brf
+*.fls
+*.fdb_latexmk
+*.ilg
+*.idx
+*.ind
+*.lof
+*.lot
+*.nav
+*.out
+*.snm
+*.toc
+*.synctex.gz
+*.log
+
+# Output PDFs
+*.pdf
+
+# Backup files
+*.bak
+*.sav
+*~
+*.swp
+*.swo
+
+# VS Code settings
+.vscode/
+*.code-workspace
+.idea/
+
+# MacOS metadata files
+.DS_Store
+._*
+
+# TeXShop files
+*.synctex
+*.synctex(busy)
+
+# Overleaf temporary files
+*.blg
+*.run.xml
+*.bcf
